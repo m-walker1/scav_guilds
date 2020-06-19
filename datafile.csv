@@ -1,0 +1,14 @@
+Site ,Carcass_species,species_richness_a,species_richness_b,detection_time_hours,consumption_time_days,distance to water,grassland,shrubland,forest,elevation,size carcass,type,animal died month,camera deploy date,animal died season,4 months after,distance to major road in meters,season
+Carpenter,Bison,8,7,1,3,25,1,0,0,6234,700,Yearling,October,10/12/2017,Fall,2/12/2018,116,3
+Cherry Canyon Bull,Elk,2,1,12,0,62,0,1,0,5358,700,Bull ,April,4/5/2018,Spring,8/5/2018,879,1
+Dringle,Bison,4,3,0,0,31,0,0,1,4678,1100,Cow,March,3/27/2018,Spring,7/27/2018,669,1
+Lower Cherry Bull,Elk,3,1,12,23,862,0,1,0,4683,700,Bull ,April,4/25/2018,Spring,8/25/2018,103,1
+Mill A,Bison,6,4,20,4,725,1,0,0,6105,1100,Cow,August,8/12/2016,Summer,12/12/2016,1291,2
+Mill B,Bison,8,8,32,3,990,1,0,0,6105,1100,Cow,August,8/12/2016,Summer,12/12/2016,1590,2
+Mill C,Bison,9,8,36,71,789,1,0,0,6105,2000,Bull ,August,8/12/2016,Summer,12/12/2016,1392,2
+Mill Rendez,Bison,8,8,11,16,844,1,0,0,6095,1100,Cow,September,9/1/2016,Fall,1/1/2017,2076,3
+Polecreek Bull,Elk,3,1,0,0,662,0,1,0,5896,700,Bull ,September,9/30/2016,Fall,1/30/2017,102,3
+Polecreek Culvert,Bison,6,3,1,61,897,0,1,0,5093,1100,Cow,March,3/28/2018,Spring,7/28/2018,35,1
+Tice,Bison,2,0,0,0,1295,1,0,0,5636,1100,Cow,February,2/12/2018,Winter,6/12/2018,3090,4
+Trap,Bison,5,5,0,74,939,1,0,0,4959,1100,Cow,March,3/26/2018,Spring,7/26/2018,164,1
+Wiley,Bison,4,3,48,27,202,0,1,0,4916,1100,Cow,April,4/25/2018,Spring,8/25/2018,47,1
